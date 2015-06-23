@@ -1,7 +1,6 @@
 [Icon Theme]
 Name=elementary Xfce
 Comment=Smooth modern theme for Xfce
-Inherits=adwaita,gnome,hicolor
 
 Example=directory-x-normal
 
